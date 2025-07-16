@@ -1,0 +1,3 @@
+cl_interp 0.03
+cl_interp_ratio 1
+echo "its doing it properly"
